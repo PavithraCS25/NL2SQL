@@ -118,10 +118,13 @@ Once setup is complete, you can run the agent via the main script:
 ```bash
 # For a single question:
 python3 main.py "List the top 3 best-selling products with quantity sold at ’Jurong’"
+```
 
-License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
+## Author
+
 Pavithra Sainath
 
