@@ -1,0 +1,13 @@
+google-cloud-aiplatform 
+google-cloud-bigquery 
+google-cloud-storage # For Vertex AI, BQ, GCS
+langchain 
+langchain-google-vertexai # Core LangChain & Vertex AI integration
+langgraph # The graph orchestrator
+pandas 
+db-dtypes # For handling BQ results, db-dtypes for newer pandas/BQ compatibility
+# Optional, but useful for embeddings if not using Vertex built-in:
+sentence-transformers
+pandas_gbq
+dotenv
+google-cloud-modelarmor==0.2.1
