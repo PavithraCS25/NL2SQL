@@ -61,6 +61,7 @@ The system architecture leverages cutting-edge AI models for language understand
 ## 5. Project Structure
 
 A modular structure is adopted for maintainability:
+```bash
 .
 ├── agent
 │   ├── __init__.py
@@ -87,6 +88,7 @@ A modular structure is adopted for maintainability:
 └── utils
     ├── __init__.py
     └── callbacks.py
+```
 
 ## 6. Setup & Prerequisites
 
